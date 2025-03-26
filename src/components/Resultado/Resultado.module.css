@@ -1,0 +1,14 @@
+.result {
+    margin-top: 20px;
+    padding: 10px;
+    background: #e0f7fa;
+    border-radius: 5px;
+}
+
+.result h2 {
+    color: #00796b;
+}
+
+.result p {
+    font-weight: bold;
+}
